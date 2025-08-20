@@ -13,10 +13,10 @@ Zdrojová data pocházejí z webu ČSFD, kde jsem analyzovala 1000 nejlépe hodn
 
 ## Dosažené výsledky a poznatky
 
-1.  **Vývoj filmové produkce v čase:** Graf "Nejlepších 1000 filmů podle roku" ukazuje distribuci těchto filmů v průběhu let.
-2.  **Distribuce hodnocení:** Histogram "Histogram hodnocení filmů" znázorňuje, jak se hodnocení rozprostírá mezi jednotlivými filmy.
-3.  **Závislost hodnocení a počtu hodnocení:** Bodový graf "Závislost: Hodnocení vs. Počet hodnocení" vizualizuje vztah mezi hodnocením filmu a počtem hlasů.
-4.  **Tabulka TOP 10 filmů:** Prezentace tabulky s TOP 10 filmy, včetně jejich hodnocení a počtu hlasů.
+**1. Vývoj filmové produkce v čase:** Graf "Nejlepších 1000 filmů podle roku" ukazuje distribuci těchto filmů v průběhu let.
+**2. Distribuce hodnocení:** Histogram "Histogram hodnocení filmů" znázorňuje, jak se hodnocení rozprostírá mezi jednotlivými filmy.
+**3.  Závislost hodnocení a počtu hodnocení:** Bodový graf "Závislost: Hodnocení vs. Počet hodnocení" vizualizuje vztah mezi hodnocením filmu a počtem hlasů.
+**4.  Tabulka TOP 10 filmů:** Prezentace tabulky s TOP 10 filmy, včetně jejich hodnocení a počtu hlasů.
 
 ## Použité nástroje
 
